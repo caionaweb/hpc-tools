@@ -9,7 +9,7 @@
 
 Files and instructions for install CoreOS stable
 
-**Folder Torque VCC**
+**Folder vcc-torque**
 
 Files and instructions for install Torque with Maui pre-configured
 
