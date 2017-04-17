@@ -36,3 +36,14 @@ sudo coreos-install -d /dev/sda -C stable -c cloud_config.yml
 **Wait and reboot.**
 
 **Done.**
+
+**Optional: change hostname**
+
+```
+sudo hostnamectl set-hostname HOSTNAME
+sudo reboot
+```
+
+
+
+
