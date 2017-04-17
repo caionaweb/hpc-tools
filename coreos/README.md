@@ -14,7 +14,7 @@ https://coreos.com/os/docs/latest/booting-with-iso.html
 sudo openssl passwd -1
 ```
 
-**Create cloud_config.yml with template **
+**Create cloud_config.yml with template**
 
 ```
 #cloud-config
